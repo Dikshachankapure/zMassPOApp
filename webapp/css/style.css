@@ -1,0 +1,8 @@
+.sapMListModeMultiSelect .sapMListTblSubCnt, .sapMListModeSingleSelectLeft .sapMListTblSubCnt
+{
+	padding-left: 0px !important;
+}
+.sapMListTblHighlightCol + .sapMListTblHeaderCell, .sapMListTblHighlightCell + .sapMListTblCell
+{
+	padding-left: 0px !important;
+}
